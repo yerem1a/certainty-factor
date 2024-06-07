@@ -1,0 +1,15 @@
+[09-Aug-2023 17:58:27 Asia/Jakarta] PHP Warning:  require(/home/wahe2317/public_html/sistempakar-kecanduan-gadget-icak.wahyunurfadillah.my.id/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/wahe2317/public_html/sistempakar-kecanduan-gadget-icak.wahyunurfadillah.my.id/index.php on line 34
+[09-Aug-2023 17:58:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wahe2317/public_html/sistempakar-kecanduan-gadget-icak.wahyunurfadillah.my.id/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wahe2317/public_html/sistempakar-kecanduan-gadget-icak.wahyunurfadillah.my.id/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/wahe2317/public_html/sistempakar-kecanduan-gadget-icak.wahyunurfadillah.my.id/index.php on line 34
+[09-Aug-2023 17:58:40 Asia/Jakarta] PHP Warning:  require(/home/wahe2317/public_html/sistempakar-kecanduan-gadget-icak.wahyunurfadillah.my.id/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/wahe2317/public_html/sistempakar-kecanduan-gadget-icak.wahyunurfadillah.my.id/index.php on line 34
+[09-Aug-2023 17:58:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wahe2317/public_html/sistempakar-kecanduan-gadget-icak.wahyunurfadillah.my.id/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wahe2317/public_html/sistempakar-kecanduan-gadget-icak.wahyunurfadillah.my.id/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/wahe2317/public_html/sistempakar-kecanduan-gadget-icak.wahyunurfadillah.my.id/index.php on line 34
+[09-Aug-2023 17:58:41 Asia/Jakarta] PHP Warning:  require(/home/wahe2317/public_html/sistempakar-kecanduan-gadget-icak.wahyunurfadillah.my.id/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/wahe2317/public_html/sistempakar-kecanduan-gadget-icak.wahyunurfadillah.my.id/index.php on line 34
+[09-Aug-2023 17:58:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wahe2317/public_html/sistempakar-kecanduan-gadget-icak.wahyunurfadillah.my.id/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wahe2317/public_html/sistempakar-kecanduan-gadget-icak.wahyunurfadillah.my.id/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/wahe2317/public_html/sistempakar-kecanduan-gadget-icak.wahyunurfadillah.my.id/index.php on line 34
